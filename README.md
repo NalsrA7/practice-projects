@@ -1,2 +1,2 @@
 # practice-projects
-Practicing Python Projects to improve fundamentals.
+Practicing beginner Python Projects to improve fundamentals.
